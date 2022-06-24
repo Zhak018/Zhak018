@@ -1,10 +1,10 @@
 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
-- 👋 Hi, I’m @Zhak018
+- 👋 Hi, I’m Zhak
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Etichal Hacking
-- 💞️ I’m looking to collaborate on Hacker
+- 🌱 I’m currently learning Etichal Hacking & Programming web
+- 👽 I’m looking to collaborate on Hacker
 - 📫 How to reach me?? ...
-- ⚡ Fun fact: I play guitar guitar
+- ⚡ Fun fact: I can play guitar
 
 <!---
 Zhak018/Zhak018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
